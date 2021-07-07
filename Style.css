@@ -1,0 +1,124 @@
+.Color{
+    color: orange;
+}
+.felxible_container{
+    display: flex;
+    margin-bottom: 50px;
+}
+.half-Width{
+    width: 50%;
+    padding-left: 5%;
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+
+}
+.half-Width img{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+h1{
+    text-size-adjust:200px;
+}
+.link_button{
+    text-decoration: none;
+    border-radius: 15px;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-family: 700;
+    padding: 10px 40px;
+}
+.bottom{  
+margin-left: -55px;
+background-image: url(images/shapes/7.png);
+background-repeat: no-repeat;
+background-size: cover;
+    
+}
+.About-Me{
+    margin: 30px 0px 0px 100px;
+width: 50%;
+}
+.About-Me-img{
+    width: 85%;
+    margin: 10px 0px 0px 25px;
+}
+.Recipy{
+
+        margin-left: auto;
+        margin-right: auto;
+        width: 20em;
+}
+.Recipe{
+    text-align: center;
+}
+.experiances-area{
+    display: flex;
+    margin-top:9% ;
+    margin-bottom: 15px;}
+
+
+    .experiances{
+        border-radius: 10px;
+        border-left: solid 5px;
+        border-image: linear-gradient(blue, cyan);
+        border-image-slice: 1;
+        border-image-width: 0px 0px 0px 2px;
+        width: 39%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 30px;
+        box-shadow: 10px 10px 40px gray;
+        }
+        
+        
+        .img{
+        width: 90%;
+        margin-top: 5%;
+        border: solid white;
+        border-radius: 7px;
+        }
+        
+        .top{
+            display: flex;
+            
+            
+        }
+        .top-ten
+        {
+        
+            
+            width: 100%;
+            
+            color: black;
+            padding: 2%;
+            margin-top: 100px;
+            box-shadow: 10px 10px 40px gray;
+            
+            
+            }  
+        
+            footer{
+                width: 100%;
+                background-color: black;
+                color: white;
+                text-align: center;
+                padding: 2%;
+                margin-top: 100px;
+                
+            
+            }  
+            .Foodid{
+                color: orange;
+            }
+            .Foodid2{
+                color: gray;
+            }
+            .Foodid3{
+                color: rgb(167, 160, 160);
+            }
+
+
+
+
